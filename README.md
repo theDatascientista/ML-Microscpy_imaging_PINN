@@ -1,8 +1,8 @@
-# [Your Project Title Here]
+# [Machine Learning: Micoscopy imaging PINN]
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/theDatascientista/ML-Microscpy_imaging_PINN]
 
 ## Description
 
