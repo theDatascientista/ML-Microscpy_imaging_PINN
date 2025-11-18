@@ -6,11 +6,11 @@
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+[The idea of this project was based on the publication "Untrained, physics-informed neural networks for structured illumination microscopy" by Zachary Burns and Zhaowei Liu to train a PINN for a better microscopy image processing solution, regarding quality improvement and automation.]
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+[Creation of a Physics-informed neural network for microscopy imaging, based on partial differential equations related to image processing.]
 
 ### Results Summary
 
